@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the associated MICCAI 2026 paper and
+  this software release.
+title: Non-linear INR-based Motion Modelling for 4D Radiotherapy
+type: software
+authors:
+  - family-names: Gebauer
+    given-names: Johannes B.
+    orcid: https://orcid.org/0009-0008-0681-268X
+  - family-names: Büttgen
+    given-names: Laura E.
+    orcid: https://orcid.org/0009-0005-0441-0319
+  - family-names: Sentker
+    given-names: Thilo
+    orcid: https://orcid.org/0000-0001-6663-0003
+  - family-names: Werner
+    given-names: René
+    orcid: https://orcid.org/0000-0002-2296-3305
+repository-code: https://github.com/IPMI-ICNS-UKE/INR-Motion-Modeling
+url: https://github.com/IPMI-ICNS-UKE/INR-Motion-Modeling
+license: MIT
+version: 0.1.0
+date-released: 2026-09-24
+keywords:
+  - 4DCT
+  - implicit neural representation
+  - medical image registration
+  - motion modelling
+  - radiotherapy
+preferred-citation:
+  type: conference-paper
+  title: Non-linear INR-Based Motion Modeling for 4D Radiotherapy
+  authors:
+    - family-names: Gebauer
+      given-names: Johannes B.
+      orcid: https://orcid.org/0009-0008-0681-268X
+    - family-names: Büttgen
+      given-names: Laura E.
+      orcid: https://orcid.org/0009-0005-0441-0319
+    - family-names: Sentker
+      given-names: Thilo
+      orcid: https://orcid.org/0000-0001-6663-0003
+    - family-names: Werner
+      given-names: René
+      orcid: https://orcid.org/0000-0002-2296-3305
+  collection-title: Medical Image Computing and Computer Assisted Intervention – MICCAI 2026
+  year: 2026
+  start: 275
+  end: 284
+  doi: 10.1007/978-3-032-38236-8_27
